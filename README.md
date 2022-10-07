@@ -20,3 +20,6 @@ I write something in here to make progress on Github.
 -> (git clone, git diff, git commit -a -m "comment" , git merge <branch-name>
 
 this line was modified by manually during conflicts resolution.
+
+new line was edited locally
+
