@@ -18,4 +18,4 @@ I write something in here to make progress on Github.
 -> Understanding branch and head perfectly ( Branch located in -> .git/refs/heads, HEAD located in -> .git/HEAD -> ref: refs/heads/master )
 -> Special branch commands ( git branch <name>, checkout <name>, branch -d <name>, git checkout -b <branch-name>, git branch -m <oldname> <newname> )
 -> (git clone, git diff, git commit -a -m "comment" , git merge <branch-name>
--> one more edit
+-> some changes
